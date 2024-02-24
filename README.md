@@ -38,7 +38,7 @@ To run the project locally, follow these steps:
 ![Screenshot 2024-02-24 123957](https://github.com/Veer6693/movie-recommendation/assets/102231617/fbfaa95c-84ed-4c9c-ab5d-242ce83c24a3)
 
 
-![Screenshot 2024-02-24 123957](https://github.com/Veer6693/movie-recommendation/assets/102231617/872cae06-bd5b-4bf4-982f-c3b5bf780386)
+![Screenshot 2024-02-24 123928](https://github.com/Veer6693/movie-recommendation/assets/102231617/b9d08a94-7cf9-49c2-b09a-b59d7566267d)
 
 
 ## Future Improvements
