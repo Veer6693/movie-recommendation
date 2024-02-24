@@ -10,7 +10,7 @@ The project includes the following steps:
 2. **Text Normalization:** Using PorterStemmer to get words in their root form.
 3. **Text Vectorization:** Using CountVectorizer to convert text into a matrix of token counts.
 4. **Recommendation:** Using cosine_similarity to check the angle between vectors and recommend movies.
-5. **Deployment:** Using Streamlit to deploy the project locally and then deploying it on Heroku.
+5. **Deployment:** Using Streamlit to deploy the project locally.
 
 The main goal of this project is to provide users with personalized movie recommendations based on their current preferences and viewing habits. By analyzing movie descriptions, genres, keywords, and the involvement of specific actors and directors, the system can suggest movies that are likely to be of interest to the user.
 
@@ -34,6 +34,12 @@ To run the project locally, follow these steps:
    streamlit run app.py
 
 4. Open your browser and navigate to http://localhost:8501 to access the web interface for movie recommendations.
+
+![Screenshot 2024-02-24 123957](https://github.com/Veer6693/movie-recommendation/assets/102231617/fbfaa95c-84ed-4c9c-ab5d-242ce83c24a3)
+
+
+![Screenshot 2024-02-24 123957](https://github.com/Veer6693/movie-recommendation/assets/102231617/872cae06-bd5b-4bf4-982f-c3b5bf780386)
+
 
 ## Future Improvements
 
